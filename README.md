@@ -1,7 +1,7 @@
-# The SketchGen Database of Tree Silhouettes
+# The TreeNet Database of Tree Skeletons and Silhouettes
 Andrin Jenal, ETH Zurich
 
-The SketchGen database is a collection of artificially created tree silhouettes using Blender and the sapling add-on.
+The TreeNet database is a collection of artificially created tree silhouettes using Blender and the sapling add-on.
 It is useful for people who are interestd in learning techniques and pattern recognition on tree skeleton data.
 
 The tree samples are available in two different formats: **hdf5** and **png**.
