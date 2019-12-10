@@ -1,4 +1,4 @@
-# Sample Tree Generation
+# Sample Tree Generation Script for Blender
 
 This is a simple tree silhouette generation script that uses Blender's python *bpy* bindings.
 The script uses an improved version of the [Sapling addon](https://github.com/abpy/improved-sapling-tree-generator).
